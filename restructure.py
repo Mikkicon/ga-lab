@@ -32,6 +32,6 @@ def main():
   move_fxs(STATS_PATH, f"{dest_dir}/{ENCODING}")
 
 
-move_xlsx(STATS_PATH,  f"archives/{ENCODING}/{N}/charts")
+# move_xlsx(STATS_PATH,  f"archives/{ENCODING}/{N}/charts")
 
-# main()
+main()
